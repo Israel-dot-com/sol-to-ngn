@@ -3,9 +3,17 @@
   "version": "1.0.0",
   "description": "This converts in real time the price of Solana to the actual market official of Naira",
   "main": "index.js",
+  "keywords": [
+    "currency",
+    "conversion"
+  ],
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "israel-dot-com",
+  "license": "ISC",
+  "dependencies": {
+    "converter-ter": "^1.0.1"
+  }
 }

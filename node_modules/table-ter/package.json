@@ -1,0 +1,26 @@
+{
+  "name": "table-ter",
+  "version": "1.0.0",
+  "description": "Custom next table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dedi684/table-ter.git"
+  },
+  "keywords": [
+    "table",
+    "next"
+  ],
+  "author": "Dedi684",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dedi684/table-ter/issues"
+  },
+  "homepage": "https://github.com/Dedi684/table-ter#readme",
+  "dependencies": {
+    "converter-ter": "^1.0.0"
+  }
+}
