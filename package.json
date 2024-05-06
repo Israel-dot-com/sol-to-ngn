@@ -1,5 +1,5 @@
 {
-  "name": "sol-ngn",
+  "name": "sol-to-ngn",
   "version": "1.0.0",
   "description": "This converts in real time the price of Solana to the actual market official of Naira",
   "main": "index.js",
@@ -7,6 +7,7 @@
     "currency",
     "conversion"
   ],
+  "repository": "https://github.com/israel-dot-com/sol-to-ngn",
   
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
