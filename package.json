@@ -1,6 +1,6 @@
 {
   "name": "sol-to-ngn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This converts in real time the price of Solana to the actual market official of Naira",
   "main": "index.js",
   "keywords": [
